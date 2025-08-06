@@ -1,0 +1,4 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+203.5,-137.025,90.0,top,J1,,,KEYSTONE_4910,4910,tht
+216.0,-137.025,90.0,top,J2,,,KEYSTONE_4910,4910,tht
+206.96,-126.45,0.0,top,U1,,,TO-220-3_Vertical,AOTS,tht
