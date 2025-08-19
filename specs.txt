@@ -1,0 +1,11 @@
+The desired solution is to prefabricate the sensors with the desired wires attached.
+
+Sensor:
+Sensata Airpax 67L050P 
+https://www.sensata.com/sites/default/files/a/sensata-6700-series-subminiature-bimetal-disc-thermostats-datasheet.pdf
+
+Wire:
+18 AWG, 2 conductor PV wire with 300V insulation rated for 105C
+length: 4.6m or 15 feet.
+
+other: heat shrink tubing at the junctions. 
